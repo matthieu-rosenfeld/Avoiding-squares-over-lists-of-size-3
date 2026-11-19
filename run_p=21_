@@ -1,0 +1,15 @@
+P=21: 405488434 states, generated in 16855.8 s (peak memory 20483.8 MiB)
+  iteration 10: growth rate in [0.666666, 2.000001]
+  iteration 20: growth rate in [1.173913, 1.450000]
+  iteration 30: growth rate in [1.253333, 1.333334]
+  iteration 40: growth rate in [1.290539, 1.311788]
+  iteration 50: growth rate in [1.297129, 1.303966]
+  iteration 60: growth rate in [1.299525, 1.301401]
+  iteration 70: growth rate in [1.300253, 1.300844]
+  iteration 80: growth rate in [1.300449, 1.300643]
+  iteration 90: growth rate in [1.300513, 1.300586]
+  iteration 100: growth rate in [1.300537, 1.300560]
+value iteration: 109 iterations in 49366.9 s, growth rate in [1.300544, 1.300553]
+D = 89182122 at the start state, 394977967 states of positive weight
+peak memory 20483.8 MiB, total time 66223.1 s
+certified growth rate: alpha = 1300544/1000000 = 1.300544
